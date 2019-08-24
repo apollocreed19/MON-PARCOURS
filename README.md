@@ -23,6 +23,6 @@ font-size: 15pt;">
     le service informatique de mon entreprise
 <p/>
 
-<img src="https://image.freepik.com/vecteurs-libre/ensemble-cartes-poker-design-avant-arriere_1308-2762.jpg":>
+
     
 
