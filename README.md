@@ -6,6 +6,7 @@ font-size: 12pt;">
 
 
 
+
 <h1>Page de présentation</h1>
 <p>
     Je m 'appelle Jean-Pierre Cailleau, je travaille depuis près de 20 ans dans une entreprise qui traite des données
@@ -15,9 +16,6 @@ font-size: 12pt;">
     Suite à un bilan de compétence, j'ai constaté que j'avais le souhait d'effectuer une activité beaucoup plus cérébral.
 </p>
 
-<html>
-<body style="color: blue;
-font-size: 14pt;"">
 
 <h2>Mes attentes</h2>
 <p>
