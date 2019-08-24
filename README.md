@@ -22,6 +22,7 @@ font-size: 15pt;">
     Je souhaiterais intégrer une école d'informatique qui me permettre d'avoir le maximum d'outils pour pouvoir intégrer
     le service informatique de mon entreprise
 <p/>
-    
+
+<img src="https://image.freepik.com/vecteurs-libre/ensemble-cartes-poker-design-avant-arriere_1308-2762.jpg":>
     
 
