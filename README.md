@@ -15,6 +15,7 @@ font-size: 12pt;">
     Suite à un bilan de compétence, j'ai constaté que j'avais le souhait d'effectuer une activité beaucoup plus cérébral.
 </p>
 
+<html>
 <body style="color: blue;
 font-size: 14pt;"">
 
