@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body style="color: green;
 font-size: 12pt;">
@@ -10,5 +10,10 @@ font-size: 12pt;">
 <p>
     Je m 'appelle Jean-Pierre Cailleau, je travaille depuis près de 20 ans dans une entreprise qui traite des données
     informatiques.
+</p>
 <p>
+    Suite à un bilan de compétence, j'ai constaté que j'avais le souhait d'effectuer une activité beaucoup plus cérébral.
+</p>
+    
+    
 
