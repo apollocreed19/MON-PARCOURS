@@ -1,13 +1,13 @@
 
 <html>
-<body style="color: blue;
-font-size: 15pt;">
+<body style="color: black;
+font-size: 12pt;">
 
 
 
 
 
-<h1>Page de présentation</h1>
+<h1>HISTORIQUE</h1>
 <p>
     Je m 'appelle Jean-Pierre Cailleau, je travaille depuis près de 20 ans dans une entreprise qui traite des données
     informatiques.
@@ -22,9 +22,9 @@ font-size: 15pt;">
     Je souhaiterais intégrer une école d'informatique qui me permettre d'avoir le maximum d'outils pour pouvoir intégrer
     le service informatique de mon entreprise.
     
-    Mon expérience du terrain 
+    Mon expérience du terrain devrait me permettre d'améliorer les programmes déjà existants.
 <p/>
-![alt tag](https://github.com/apollocreed19/MON-PARCOURS/issues/1)
+
 
 
     
