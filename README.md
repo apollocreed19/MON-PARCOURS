@@ -24,6 +24,7 @@ font-size: 15pt;">
     
     Mon expérience du terrain 
 <p/>
+![alt tag](
 
 
     
