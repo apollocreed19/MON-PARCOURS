@@ -20,7 +20,9 @@ font-size: 15pt;">
 <h2>Mes attentes</h2>
 <p>
     Je souhaiterais intégrer une école d'informatique qui me permettre d'avoir le maximum d'outils pour pouvoir intégrer
-    le service informatique de mon entreprise
+    le service informatique de mon entreprise.
+    
+    Mon expérience du terrain 
 <p/>
 
 
